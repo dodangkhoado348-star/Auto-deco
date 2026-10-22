@@ -1,0 +1,14 @@
+{
+  "geode": "4.0.0",
+  "gd": {
+    "android": "2.2081",
+    "win": "2.2081",
+    "mac": "2.2081",
+    "ios": "2.2081"
+  },
+  "id": "yourname.autodeco",
+  "name": "Auto Deco",
+  "version": "v0.1.0",
+  "developer": "yourname",
+  "description": "Auto decorate levels with selectable styles, beat-synced layout."
+}
