@@ -1,14 +1,9 @@
 {
-    "geode": "5.10.1",
-  "gd": {
-    "android": "2.2081",
-    "win": "2.2081",
-    "mac": "2.2081",
-    "ios": "2.2081"
-  },
-  "id": "truyennhanso2.autodeco",
+  "geode": "5.11.2",
+  "gd": "*",
+  "id": "yourname.autodeco",
   "name": "Auto Deco",
   "version": "v0.1.0",
-  "developer": "truyennhanso2",
+  "developer": "yourname",
   "description": "Auto decorate levels with selectable styles, beat-synced layout."
 }
